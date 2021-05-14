@@ -1,0 +1,31 @@
+*{
+    text-align: center;
+}
+#baslik{
+    color: red;
+}
+#menu{
+ list-style: none;
+ display:block;
+ color: black;
+}
+ul li{
+display: inline;
+text-align: center;
+}
+img{
+    display: block;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    margin-left: 700px;
+}
+#fotograflar{
+    text-align: center;
+}
+.isimler{
+ margin: 10px 400px 10px 500px;
+}
+.icerik{
+ margin: 10px 400px 10px 500px;
+}
